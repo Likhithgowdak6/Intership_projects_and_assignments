@@ -1,0 +1,18 @@
+2) Introduce Python as a programming language. Explain why Python is a popular choice for Data Analysis, Machine Learning and Artificial Intelligence
+ANS=
+
+Introduction to Python
+Python is a high-level, interpreted programming language known for its readability and simplicity, making it ideal for both beginners and experienced developers.
+
+Why Python is Popular for Data Analysis, Machine Learning, and AI
+Readability and Simplicity: Python's clear syntax allows for easy writing and understanding of code.
+Extensive Libraries: Libraries like Pandas, NumPy, Matplotlib (for data analysis) and Scikit-learn, TensorFlow, PyTorch (for ML/AI) provide powerful tools and frameworks.
+Community Support: A large, active community offers a wealth of resources and tutorials.
+Integration Capabilities: Python integrates well with other languages and technologies.
+Versatility: It is a general-purpose language useful in web development, automation, and scripting.
+Big Data and Cloud Support: Handles large datasets efficiently and is compatible with many cloud platforms.
+Rapid Prototyping: Allows quick development and iteration of ideas.
+Automation: Excellent for automating repetitive tasks, crucial in data preprocessing.
+In summary, Python's readability, extensive libraries, community support, and versatility make it a top choice for data analysis, machine learning, and AI.
+
+
