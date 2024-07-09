@@ -1,0 +1,27 @@
+4)Write a brief report explaining why you chose VS Code as your Python IDE. Highlight its features and benefits for coding, especially in the context of data science and Machine Learning. Create a simple Python program in VS Code that prints "Hello, Python!"
+ANS==
+Features and Benefits
+IntelliSense: Smart code completion and suggestions.
+Integrated Terminal: Run code and manage versions within the editor.
+Debugger: Built-in debugging tools.
+Extensions: Python extension for linting, IntelliSense, and Jupyter support.
+Jupyter Notebook Integration: Run and debug notebooks directly in VS Code.
+Version Control Integration: Git support for collaboration.
+Customizability: Highly customizable with themes and settings.
+Cross-Platform: Runs on Windows, macOS, and Linux.
+Benefits for Data Science and Machine Learning
+Data Analysis and Visualization: Support for Jupyter Notebooks and libraries like Matplotlib.
+Machine Learning Model Development: Tools for TensorFlow and PyTorch.
+Collaboration: Git integration for version control.
+Simple Python Program in VS Code
+Install Python extension.
+Create hello.py with the following code:
+python
+Copy code
+print("Hello, Python!")
+Run in integrated terminal:
+Copy code
+python hello.py
+Conclusion
+VS Code's IntelliSense, terminal, debugger, extensions, Jupyter support, and cross-platform capability make it ideal for Python, especially in data science and machine learning.
+
